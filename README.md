@@ -70,3 +70,49 @@ The MSA data used in this analysis is obtained from the Anthony Nolan GitHub rep
 
 ## Downloading the Input MSA Data
 The input MSA data can be downloaded from the [following link](https://github.com/ANHIG/IMGTHLA/blob/Latest/Alignments_Rel_3540.zip).
+
+# Installation and Usage Guide
+
+## Prerequisites
+Before running the script, ensure you have Python installed on your system. Python 3.6 or newer is recommended. You can download and install Python from [python.org](https://www.python.org/downloads/).
+
+## Required Libraries
+The script requires several Python libraries. These can be installed using `pip`, the Python package manager. The required libraries are:
+- pandas
+- matplotlib
+- scipy
+- scikit-learn
+- kmodes
+- plotly
+
+You can install these libraries by running the following command:
+
+```bash
+pip install pandas matplotlib scipy scikit-learn kmodes plotly
+```
+
+## Downloading the Script
+
+Download the script from the GitHub repository or clone it using the following command:
+
+```bash
+git clone [URL of the GitHub repository]
+```
+
+## Running the Script
+
+To run the script, navigate to the directory containing the script and run it using Python. The script requires three command-line arguments:
+
+    -f: Path to the MSA file.
+    -ai: Initial amino acid position in the reference sequence.
+    -ap: Position of the amino acids for analysis.
+
+For example:
+
+The reference sequence from HLA_B starts at -23, which includes the signal peptide, so we keep that to follow the amino acid indexation 
+
+```bash
+python script_name.py -f 'B_prot.txt' -ai -23 -ap 116
+```
+
+Powered by @El_Dryosa
