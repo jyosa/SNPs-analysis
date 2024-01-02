@@ -1,5 +1,5 @@
 # SNPs-analysis
-# Amino Acid Sequence Analysis Tool
+
 
 ## Objective
 This script is designed to analyze amino acid mutations from MSA data. It focuses on categorizing amino acids based on their chemical properties, performing clustering, and generating visualizations and CSV files for further analysis.
