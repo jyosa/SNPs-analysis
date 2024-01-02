@@ -112,7 +112,7 @@ For example:
 The reference sequence from HLA_B starts at -23, which includes the signal peptide, so we keep that to follow the amino acid indexation 
 
 ```bash
-python script_name.py -f 'B_prot.txt' -ai -23 -ap 116
+python hla2.py -f 'B_prot.txt' -ai -23 -ap 116
 ```
 
 Powered by @El_Dryosa
