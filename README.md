@@ -96,7 +96,7 @@ pip install pandas matplotlib scipy scikit-learn kmodes plotly
 Download the script from the GitHub repository or clone it using the following command:
 
 ```bash
-git clone [URL of the GitHub repository]
+git clone https://github.com/jyosa/SNPs-analysis.git
 ```
 
 ## Running the Script
