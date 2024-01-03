@@ -115,4 +115,13 @@ The reference sequence from HLA_B starts at -23, which includes the signal pepti
 python hla2.py -f 'B_prot.txt' -ai -23 -ap 116
 ```
 
+## Mutation at 116 position
+
+Regarding the significance of position 116 in HLA-B according to results: This gene encodes for a key component of the Class I major histocompatibility complex (MHC), essential in immune responses. HLA-B molecules have specific peptide-binding motifs determined by the structure of their peptide-binding pockets, known as the B and F pockets. Position 116 and other amino acids within these pockets are crucial for determining the binding specificity of peptides. These peptides are then presented to T cells, a process central to the immune system's ability to recognize and respond to pathogens. The specific amino acids at positions like 116 influence the binding and presentation of these peptides, thereby playing a pivotal role in modulating immune responses.
+
+Mutations at position 116, although less common, are of particular interest. For example, mutations leading to a stop codon or the incorporation of proline can significantly alter the cleft-like structure of the peptide-binding region. This alteration can impact the overall function of the HLA-B molecule. Similarly, the substitution of arginine at this position can affect the affinity of the peptide-binding pocket for its ligands. These changes are crucial in understanding variations in immune response.
+
+In the context of autoimmune diseases, mutations at position 116 and their correlation with specific peptides presented to T cells can be particularly enlightening. Exploring these mutations further is essential, especially in association studies that correlate such genetic variations (SNPs) with autoimmune disorders. Such research could provide valuable insights into the genetic underpinnings of these diseases and open avenues for targeted therapies.
+
+
 Powered by @El_Dryosa
