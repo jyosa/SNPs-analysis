@@ -117,7 +117,7 @@ python hla2.py -f 'B_prot.txt' -ai -23 -ap 116
 
 ## Mutation at 116 position
 
-![Fig 1. SNPs distribution and cluster by chemical properties for position 116]([relative/path/in/repository/to/image.svg](https://github.com/jyosa/SNPs-analysis/blob/main/img.001.png))
+![Fig 1. SNPs distribution and cluster by chemical properties for position 116](https://github.com/jyosa/SNPs-analysis/blob/main/img.001.png))
 
 Regarding the significance of position 116 in HLA-B according to results: This gene encodes for a key component of the Class I major histocompatibility complex (MHC), essential in immune responses. HLA-B molecules have specific peptide-binding motifs determined by the structure of their peptide-binding pockets, known as the B and F pockets. Position 116 and other amino acids within these pockets are crucial for determining the binding specificity of peptides. These peptides are then presented to T cells, a process central to the immune system's ability to recognize and respond to pathogens. The specific amino acids at positions like 116 influence the binding and presentation of these peptides, thereby playing a pivotal role in modulating immune responses.
 
